@@ -22,7 +22,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## `>` About me
 
-I'm a **software developer at Zelta** based in Panama 🇵🇦, focused on building **full-stack web products** end to end — from data model and API to UI and deploy.
+I'm a **software developer** based in Panama 🇵🇦, focused on building **full-stack web products** end to end — from data model and API to UI and deploy.
 
 - 🧩 I work mostly in **TypeScript** across the whole stack: **Next.js / React** on the front, **Hono.js on Cloudflare Workers** on the back.
 - ⚡ Comfortable with edge-first architectures: **Cloudflare Workers/Pages**, **D1 (SQLite) + Drizzle ORM**, **R2**, **KV**.
