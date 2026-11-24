@@ -30,12 +30,12 @@ The CMS behind my portfolio: Emdash on Workers, with D1 for content and R2 for m
 <sub>ASTRO · EMDASH · D1 · R2 · WORKERS BUILDS</sub>
 
 06&nbsp;&nbsp; **[Villa Marena](https://villamarena.com)**&nbsp;· WordPress developer&nbsp;· 2026<br>
-Boutique hotel in Acapulco. Rooms bookable by date with six seasons of rates, Stripe at checkout, and availability synced with Booking.com and Expedia.<br>
-<sub>WORDPRESS · ELEMENTOR PRO · MOTOPRESS HOTEL BOOKING · STRIPE</sub>
+Boutique hotel in Acapulco. I built the site from a 12-screen design with my own tool, WordPress MCP Bridge (03). Rooms are bookable by date with six seasons of rates, Stripe at checkout, and availability synced with Booking.com and Expedia.<br>
+<sub>WORDPRESS MCP BRIDGE · ELEMENTOR PRO · MOTOPRESS · STRIPE</sub>
 
 07&nbsp;&nbsp; **[Ojitos Negros](https://modae.shop)**&nbsp;· WooCommerce developer&nbsp;· 2026<br>
-Store for garments embroidered by Otomí artisans. The shop runs on my own engine over the WooCommerce Store API: filters, sorting and paging without reloads.<br>
-<sub>WOOCOMMERCE · STORE API · ELEMENTOR PRO</sub>
+Store for garments embroidered by Otomí artisans, built from the brand's design file with WordPress MCP Bridge (03). The shop runs on my own engine over the WooCommerce Store API: filters, sorting and paging without reloads.<br>
+<sub>WORDPRESS MCP BRIDGE · WOOCOMMERCE · STORE API · ELEMENTOR PRO</sub>
 
 Most of this work lives in private repositories. The case studies, with screens, are on [my portfolio](https://portfolio-kayro.sannelvalero.workers.dev/).
 
@@ -49,7 +49,7 @@ Most of this work lives in private repositories. The case studies, with screens,
 <br>
 <br>
 
-<a href="mailto:kayro.valero02@gmail.com"><img src="assets/footer.png" width="100%" alt="03, contact. Let's talk: kayro.valero02@gmail.com. Based in Panamá."></a>
+<a href="mailto:kayro@valionstudio.com"><img src="assets/footer.png" width="100%" alt="03, contact. Let's talk: kayro@valionstudio.com. Based in Panamá."></a>
 
 <a href="https://www.linkedin.com/in/kayro-valero"><img src="assets/btn-linkedin.png" height="44" alt="LinkedIn"></a>&nbsp;
 <a href="https://portfolio-kayro.sannelvalero.workers.dev/"><img src="assets/btn-portfolio.png" height="44" alt="Portfolio"></a>
